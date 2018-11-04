@@ -1,6 +1,10 @@
 # getting-started-custom-elements
 create native custom elements with vanilla javascript - step by step example
 
+
+![alt text](https://github.com/edsaio/getting-started-custom-elements/blob/master/star-rating.gif?raw=true)
+
+
 ## Steps
 
 * Create html
